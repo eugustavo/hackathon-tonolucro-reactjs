@@ -1,0 +1,17 @@
+#market {
+  position: absolute;
+  left: 55%;
+  top: 29%;
+}
+
+.mk h1 {
+  margin-left: 10%;
+  margin-top: 80px;
+}
+
+.mk span {
+  font-size: 32px;
+  font-weight: 500;
+  margin-left: 10%;
+  color: red;
+}

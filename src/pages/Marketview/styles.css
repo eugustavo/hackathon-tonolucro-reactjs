@@ -1,0 +1,28 @@
+#section {
+  font-size: 42px;
+  font-weight: 400;
+  margin-top: 30px;
+  text-align: center;
+  color: #777777;
+}
+
+.markets {
+  margin-top: 50px;
+}
+
+.button {
+  border: 0;
+  border-radius: 14px;
+  background: red;
+  color: #fff;
+  font-size: 16px;
+  padding: 0 10px;
+  height: 30px;
+  width: 120px;
+  margin-top: 110px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: rgb(250, 53, 53);
+}
